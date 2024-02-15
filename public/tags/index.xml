@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tags on Henning.Kafka</title>
+    <link>https://henningkafka.com/tags/</link>
+    <description>Recent content in tags on Henning.Kafka</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://henningkafka.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>archive</title>
+      <link>https://henningkafka.com/tags/archive/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://henningkafka.com/tags/archive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>haveaseat</title>
+      <link>https://henningkafka.com/tags/haveaseat/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://henningkafka.com/tags/haveaseat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>nature</title>
+      <link>https://henningkafka.com/tags/nature/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://henningkafka.com/tags/nature/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>people</title>
+      <link>https://henningkafka.com/tags/people/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://henningkafka.com/tags/people/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
