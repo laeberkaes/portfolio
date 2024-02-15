@@ -1,11 +1,12 @@
 ---
-weight: 1
+weight: 6
 images:
-- /images/IMG_1978.png
-- /images/IMG_3721.png
-title: Night1
+- /images/klippeneck_20240131T204022_10.png
+title: Resting Wanderer
+date: 2024-01-31
+hideExif: false
 tags:
-- night
 - haveaseat
-- archive
+- archive # all posts
+- night
 ---

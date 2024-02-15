@@ -2,37 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://henningkafka.com/people-3/</loc>
+    <loc>https://henningkafka.com/night1/</loc>
+    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://henningkafka.com/people-3/</loc>
+    <loc>https://henningkafka.com/nature3/</loc>
+    <lastmod>2014-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://henningkafka.com/nature-6/</loc>
-    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+    <loc>https://henningkafka.com/nature4/</loc>
+    <lastmod>2014-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://henningkafka.com/nature2/</loc>
+    <lastmod>2014-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://henningkafka.com/nature5/</loc>
+    <lastmod>2014-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://henningkafka.com/nature1/</loc>
+    <lastmod>2014-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://henningkafka.com/</loc>
-    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://henningkafka.com/tags/archive/</loc>
-    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://henningkafka.com/tags/haveaseat/</loc>
-    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://henningkafka.com/haveaseat/</loc>
-    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://henningkafka.com/tags/nature/</loc>
-    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+    <loc>https://henningkafka.com/tags/night/</loc>
+    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://henningkafka.com/tags/</loc>
-    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://henningkafka.com/tags/nature/</loc>
+    <lastmod>2014-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://henningkafka.com/tags/travel/</loc>
+    <lastmod>2014-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://henningkafka.com/404.html</loc>
   </url><url>
     <loc>https://henningkafka.com/about/</loc>
-  </url><url>
-    <loc>https://henningkafka.com/tags/people/</loc>
-  </url><url>
-    <loc>https://henningkafka.com/tags/travel/</loc>
   </url>
 </urlset>
