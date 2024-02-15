@@ -1,16 +1,15 @@
-baseURL: https://eternity.bora.sh # todo: change site url.
-title: Eternity # todo: change site name.
+baseURL: https://henningkafka.com # todo: change site url.
+title: Henning.Kafka # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
 
 params:
-  image: /images/banner.png
-  logo: logo.png # todo: add your custom logo to static/
-  subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
+  logo: img.png # todo: add your custom logo to static/
+  # subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
   copyright: All rights reserved. # todo: set your copyright type.
-  author: Lovely Author # todo: set your full name.
-  dontShowSource: false # please, do not do this :)
+  author: Henning Kafka # todo: set your full name.
+  dontShowSource: true # please, do not do this :)
   portfolio:
     columns:
       desktop:
@@ -24,25 +23,24 @@ params:
         people: 1
   socials:
     # todo: change these links.
-    - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:eternity@bora.sh'
-      landing: true
-    - icon: 'fab fa-github fa-lg'
-      url: 'https://github.com/boratanrikulu/eternity'
-      landing: true
     - icon: 'fab fa-instagram fa-lg'
-      url: 'https://instagram.bora.sh/eternity'
-    - icon: 'fab fa-linkedin-in fa-lg'
-      url: 'https://linkedin.bora.sh/in/eternity'
-  homepage: "/work" # homepage link, mostly same with menu.main[0]
+      url: 'https://www.instagram.com/henning.kafka'
+      landing: true
+    - icon: 'fab fa-500px fa-lg'
+      url: 'https://500px.com/p/henningkafka'
+      landing: true
+    - icon: 'far fa-envelope fa-lg'
+      url: 'mailto:henning.kafka@gmail.com'
+      landing: true
+  homepage: "/haveaseat" # homepage link, mostly same with menu.main[0]
   specialPages:
-    - work
+    - haveaseat
     - archive
-  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
-  disableWelcomePageBackground: false # disables the background image on the homepage
+  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
+  disableWelcomePageBackground: true # disables the background image on the homepage
   plausible: '' # todo: set your plausible id.
   disableRadius: false
-  moveIt: false  # Moves Title and Meta info down, only visible when scroll.
+  moveIt: true  # Moves Title and Meta info down, only visible when scroll.
   disableAlwaysResize: false
 
 markup:
@@ -55,19 +53,19 @@ taxonomies:
   tag: tags
 
 permalinks:
-  work: ":filename/"
+  haveaseat: ":filename/"
 
 menu:
   main:
-    - name: work
-      url: /work/
+    - name: haveaseat
+      url: /haveaseat/
       weight: 1
     - name: people
       url: /tags/people/
-      weight: 2
+      weight: 3
     - name: nature
       url: /tags/nature/
-      weight: 3
+      weight: 2
     - name: archive
       url: /tags/archive/
       weight: 4

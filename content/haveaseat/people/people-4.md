@@ -1,12 +1,14 @@
 ---
-weight: 14
+weight: 4
 images:
-- https://source.unsplash.com/random?nature&20616
-title: nature 14
+- https://source.unsplash.com/random?people&23003
+- https://source.unsplash.com/random?people&5023403
+title: people 4
 date: 2022-07-23
 tags:
+- haveaseat # homepage
 - archive # all posts
-- nature
+- people
 ---
 
 ## Markdown

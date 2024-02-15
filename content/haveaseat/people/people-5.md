@@ -1,12 +1,15 @@
 ---
-weight: 9
+weight: 5
 images:
-- https://source.unsplash.com/random?nature&19457
-title: nature 9
+- https://source.unsplash.com/random?people&15372
+- https://source.unsplash.com/random?people&111
+title: people 5
+multipleColumn: true
 date: 2022-07-23
 tags:
+- haveaseat # homepage
 - archive # all posts
-- nature
+- people
 ---
 
 ## Markdown
