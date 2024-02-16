@@ -3,7 +3,7 @@ title: haveaseat
 url: haveaseat
 ---
 
-Welcome to my little space. I'm **Henning** and I will be your guide here.
+Welcome to my little space. Take a chair and have a seat. I'm **Henning** and I will be your guide here.
 
 I am a photographer located in southern germany. I have a on and off relationship with photography for twelve years now. I like to be in the nature for running and biking and ... like everything is better in nature. Therefor many motives of my photographs are in nature as well. Especially night photography and long exposures are my passion.
 
